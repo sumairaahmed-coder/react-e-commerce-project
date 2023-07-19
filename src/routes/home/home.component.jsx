@@ -5,32 +5,32 @@ const Home = () => {
     {
       id: 1,
       title: "hats",
-      imageUrl: process.env.PUBLIC_URL + "images/hat.png",
-      route: "/shop/hats",
+      imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
+      route: "shop/hats",
     },
     {
       id: 2,
       title: "jackets",
-      imageUrl: process.env.PUBLIC_URL + "images/jacket.png",
-      route: "/shop/jackets",
+      imageUrl: "https://i.ibb.co/px2tCc3/jackets.png",
+      route: "shop/jackets",
     },
     {
       id: 3,
       title: "sneakers",
-      imageUrl: process.env.PUBLIC_URL + "images/shoe.png",
-      route: "/shop/sneakers",
+      imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
+      route: "shop/sneakers",
     },
     {
       id: 4,
       title: "womens",
-      imageUrl: process.env.PUBLIC_URL + "images/women.png",
-      route: "/shop/womens",
+      imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
+      route: "shop/womens",
     },
     {
       id: 5,
       title: "mens",
-      imageUrl: process.env.PUBLIC_URL + "images/men.png",
-      route: "/shop/mens",
+      imageUrl: "https://i.ibb.co/R70vBrQ/men.png",
+      route: "shop/mens",
     },
   ];
 
